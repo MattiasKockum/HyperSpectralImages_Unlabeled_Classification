@@ -1,0 +1,6 @@
+data/*
+**/__pycache__/*
+venv/
+.env
+models/*
+code/entry-point.py

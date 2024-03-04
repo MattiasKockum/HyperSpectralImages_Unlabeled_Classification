@@ -1,0 +1,6 @@
+prefix: ProjetTechnlogiqueNouveau
+framework-version: 2.1
+py-version: py310
+
+wait: False
+follow: True

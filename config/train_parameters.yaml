@@ -1,0 +1,90 @@
+epochs:
+    value: 30
+    type: int
+    metavar: a
+    param_help: This is help
+learning-rate:
+    value: 0.0003
+    type: float
+    metavar: b
+    param_help: This is help
+pad:
+    value: 8
+    type: int
+    metavar: pa
+    param_help: This is help
+log-interval:
+    value: 100
+    type: int
+    metavar: d
+    param_help: This is help
+batch-size:
+    value: 64
+    type: int
+    metavar: c
+    param_help: This is help
+num-heads:
+    value: 4
+    type: int
+    metavar: i
+    param_help: This is help
+num-layers:
+    value: 4
+    type: int
+    metavar: j
+    param_help: This is help
+dim:
+    value: 20
+    type: int
+    metavar: k
+    param_help: This is help
+mlp-dim:
+    value: 5
+    type: int
+    metavar: mlpd
+    param_help: This is help
+num-classes:
+    value: 20
+    type: int
+    metavar: nc
+    param_help: This is help
+patch-width:
+    value: 4
+    type: int
+    metavar: pw
+    param_help: This is help
+patch-height:
+    value: 4
+    type: int
+    metavar: ph
+    param_help: This is help
+patch-depth:
+    value: 16
+    type: int
+    metavar: pd
+    param_help: This is help
+nb-bands:
+    value: 224
+    type: int
+    metavar: t
+    param_help: This is help
+default-red:
+    value: 95
+    type: int
+    metavar: u
+    param_help: This is help
+default-blue:
+    value: 58
+    type: int
+    metavar: v
+    param_help: This is help
+default-green:
+    value: 20
+    type: int
+    metavar: w
+    param_help: This is help
+early-stopping-threshold:
+    value: 0.0002
+    type: float
+    metavar: x
+    param_help: This is help
